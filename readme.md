@@ -1161,6 +1161,10 @@ premium services
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [Freetutorialsus](https://www.freetutorialsus.com/) 
+- [Freecoursesonline](https://www.freecoursesonline.me/) 
+- [Freecourselab](https://freecourselab.com/) 
+
 
 
 ## Audiobooks
